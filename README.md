@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jarlstoncrypto
 - 👀 I’m interested in Web3 infrastructure
 - 🌱 I’m currently learning decentralized cloud computing
-- 💞️ I’m looking to collaborate on storage dapps, NFTs, synthetics
+- 💞️ I’m looking to collaborate on storage dapps, automated externally-triggered limit order swaps, NFTs, synthetics
 - 📫 How to reach me jarlston@protonmail.com
 
 <!---
